@@ -1,1 +1,1 @@
-Hi this is python program
+Hi this is py program
